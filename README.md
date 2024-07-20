@@ -59,4 +59,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Created by [Arpitk98](https://github.com/guptaprincekumar) - feel free to contact me!
+Created by [Prince kumar](https://github.com/guptaprincekumar) - feel free to contact me!
